@@ -50,18 +50,8 @@
 </template>
 
 <script setup>
-// import { ref } from 'vue'
+import { ref } from 'vue'
 
-// Uncomment this if you plan to use the EssentialLink component
-// import EssentialLink from 'components/EssentialLink.vue'
+const isMainPage = ref(false) // Set to `true` or `false` based on your logic
 
-// Uncomment and complete this list if needed
-// const linksList = [...]
-
-// State for controlling the left drawer visibility
-// const leftDrawerOpen = ref(false)
-
-// Function to toggle the left drawer
-// Uncomment if needed
-// funct
 </script>
